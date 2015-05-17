@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://985.github.io/blog/hello/</loc>
-    <lastmod>2015-05-09T15:35:26+08:00</lastmod>
+    <loc>http://985.github.io/blog/985jian-cha-hui-bao-shi-jian-an-pai-biao/</loc>
+    <lastmod>2015-05-17T09:24:14+08:00</lastmod>
   </url>
   <url>
-    <loc>http://985.github.io/985/2015-05-17-985jian-cha-hui-bao-shi-jian-an-pai-biao.html</loc>
+    <loc>http://985.github.io/blog/hello/</loc>
+    <lastmod>2015-05-09T15:35:26+08:00</lastmod>
   </url>
   <url>
     <loc>http://985.github.io/archives/</loc>
@@ -17,19 +18,19 @@
     <loc>http://985.github.io/</loc>
   </url>
   <url>
-    <loc>http://985.github.io/main-page/</loc>
-  </url>
-  <url>
     <loc>http://985.github.io/985/</loc>
   </url>
   <url>
-    <loc>http://985.github.io/211/</loc>
-  </url>
-  <url>
-    <loc>http://985.github.io/subject/</loc>
+    <loc>http://985.github.io/innovation/</loc>
   </url>
   <url>
     <loc>http://985.github.io/institution/</loc>
+  </url>
+  <url>
+    <loc>http://985.github.io/downloads/</loc>
+  </url>
+  <url>
+    <loc>http://985.github.io/subject/</loc>
   </url>
   <url>
     <loc>http://985.github.io/rules/</loc>
@@ -38,13 +39,13 @@
     <loc>http://985.github.io/superior_subject/</loc>
   </url>
   <url>
-    <loc>http://985.github.io/downloads/</loc>
+    <loc>http://985.github.io/211/</loc>
   </url>
   <url>
     <loc>http://985.github.io/news/</loc>
   </url>
   <url>
-    <loc>http://985.github.io/innovation/</loc>
+    <loc>http://985.github.io/main-page/</loc>
   </url>
   <url>
     <loc>http://985.github.io/posts/</loc>
