@@ -4,7 +4,7 @@
   <title><![CDATA[南京大学]]></title>
   <link href="http://985.github.io/atom.xml" rel="self"/>
   <link href="http://985.github.io/"/>
-  <updated>2015-05-17T10:08:15+08:00</updated>
+  <updated>2015-05-17T10:10:11+08:00</updated>
   <id>http://985.github.io/</id>
   <author>
     <name><![CDATA[monkey]]></name>
@@ -21,9 +21,9 @@
     <content type="html"><![CDATA[<table>
 <thead>
 <tr>
-<th> 项目名称  </th>
-<th style="text-align:center;"> 时间安排 </th>
-<th> 负责人/汇报人    </th>
+<th> 项目名称     </th>
+<th style="text-align:center;">    时间安排 </th>
+<th>                负责人/汇报人    </th>
 </tr>
 </thead>
 <tbody>
