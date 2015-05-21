@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[南京大学]]></title>
+  <title><![CDATA[]]></title>
   <link href="http://985.github.io/atom.xml" rel="self"/>
   <link href="http://985.github.io/"/>
-  <updated>2015-05-21T10:29:32+08:00</updated>
+  <updated>2015-05-21T10:32:57+08:00</updated>
   <id>http://985.github.io/</id>
   <author>
     <name><![CDATA[monkey]]></name>
