@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://985.github.io/atom.xml" rel="self"/>
   <link href="http://985.github.io/"/>
-  <updated>2015-05-21T15:51:39+08:00</updated>
+  <updated>2015-05-21T16:11:53+08:00</updated>
   <id>http://985.github.io/</id>
   <author>
     <name><![CDATA[monkey]]></name>
@@ -18,7 +18,7 @@
     <link href="http://985.github.io/blog/hello/"/>
     <updated>2015-05-09T15:35:26+08:00</updated>
     <id>http://985.github.io/blog/hello</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>hello</p>
 ]]></content>
   </entry>
   
