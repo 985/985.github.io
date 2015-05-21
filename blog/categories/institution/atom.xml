@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[分类机构设置 | ]]></title>
-  <link href="http://985.github.io/blog/categories/ji-gou-she-zhi/atom.xml" rel="self"/>
+  <title><![CDATA[分类institution | ]]></title>
+  <link href="http://985.github.io/blog/categories/institution/atom.xml" rel="self"/>
   <link href="http://985.github.io/"/>
-  <updated>2015-05-21T16:13:19+08:00</updated>
+  <updated>2015-05-21T16:16:22+08:00</updated>
   <id>http://985.github.io/</id>
   <author>
     <name><![CDATA[monkey]]></name>
