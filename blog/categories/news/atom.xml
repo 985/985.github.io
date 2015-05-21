@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[分类institution | ]]></title>
-  <link href="http://985.github.io/blog/categories/institution/atom.xml" rel="self"/>
+  <title><![CDATA[分类news | ]]></title>
+  <link href="http://985.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://985.github.io/"/>
   <updated>2015-05-21T16:30:37+08:00</updated>
   <id>http://985.github.io/</id>
