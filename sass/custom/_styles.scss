@@ -1,0 +1,70 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+html {
+        background: #F0E3B6 url("/images/top_red.jpg");
+        //background: #555555;
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+body > div {
+        background-image: none;
+        //background: #F5F5D5
+} //侧边栏
+
+body > div > div { //文章内容
+        background-image: none;
+        //background: #ff0000; 
+        //background: url("/images/bg.jpg");
+}
+body > nav {
+  //background: url("/images/nav.jpg");
+  //background: #dc0000;
+  font-size: 12px;
+  color: #ff0000;
+  margin-top: 180px;
+  ul.main-navigation {
+    padding-left: 20px;
+    //padding-top: 500px;
+   // margin-top: 500px;
+  }
+  ul.subscription {
+    //display: none;
+  }
+  a {
+	color: #ff0000;
+    &:hover {
+	//color: #ff0000;
+      color: hsl(209.01, 86.94%, 52.04%);
+      text-shadow:
+        hsl(209.01, 86.94%, 42.04%) 0px 0px 5px,
+        hsl(209.01, 86.94%, 42.04%) 0px 0px 7px,
+        hsl(209.01, 86.94%, 52.04%) 0px 0px 9px,
+        hsl(209.01, 86.94%, 52.04%) 0px 0px 11px,
+        hsl(0, 0%, 0%) 0 0 2px;
+
+    }
+    &:visited {
+	color: #ff0000;
+    }
+    i {
+      color: hsl(209.01, 86.94%, 50.04%);
+      text-shadow:
+        hsl(209.01, 86.94%, 42.04%) 0px 0px 5px,
+        hsl(209.01, 86.94%, 42.04%) 0px 0px 7px,
+        hsl(209.01, 86.94%, 52.04%) 0px 0px 9px,
+        hsl(209.01, 86.94%, 52.04%) 0px 0px 11px,
+        hsl(0, 0%, 0%) 0 0 2px;
+    }
+  }
+  
+}
+
+body {
+  line-height: 2.5em;
+  //color: $text-color;
+  //color: #ffff00;
+  font-size: 1em;
+ // @extend .serif;
+}
+
