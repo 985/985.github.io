@@ -4,7 +4,7 @@
   <title><![CDATA[改革与发展规划 | ]]></title>
   <link href="http://985.github.io/blog/categories/gai-ge-yu-fa-zhan-gui-hua/atom.xml" rel="self"/>
   <link href="http://985.github.io/"/>
-  <updated>2015-05-21T16:57:12+08:00</updated>
+  <updated>2015-06-16T18:47:46+08:00</updated>
   <id>http://985.github.io/</id>
   <author>
     <name><![CDATA[monkey]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[world]]></title>
+    <link href="http://985.github.io/blog/world/"/>
+    <updated>2015-06-16T18:46:21+08:00</updated>
+    <id>http://985.github.io/blog/world</id>
+    <content type="html"><![CDATA[<p>world</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello]]></title>
