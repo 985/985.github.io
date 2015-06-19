@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "guanyufengfanuzhuren"
+title: "关于冯帆副主任因公赴美国的公示"
 date: 2015-06-19 21:52:59 +0800
 comments: true
 categories: 新闻快讯
