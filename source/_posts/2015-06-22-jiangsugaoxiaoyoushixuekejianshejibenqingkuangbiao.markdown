@@ -1,0 +1,12 @@
+---
+layout: post
+title: "江苏高校优势学科建设基本情况表"
+date: 2015-06-22 17:16:41 +0800
+comments: true
+categories: 江苏省优势学科工程
+---
+
+
+江苏高校优势学科建设工程一期项目基本情况表
+
+[自查表.xls](http://985.nju.edu.cn/ewebeditor/UploadFile/2012116192624340.xls)
