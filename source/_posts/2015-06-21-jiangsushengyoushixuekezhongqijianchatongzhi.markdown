@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "江苏省优势学科中期检查通知"
-date: 2015-06-21 16:11:58 +0800
+date: 2012-06-14 16:11:58 +0800
 comments: true
 categories: 新闻快讯
 ---
@@ -43,4 +43,5 @@ categories: 新闻快讯
 
 
 [附件1：学科中期报告表格（苏学科办〔2012〕2号）定稿.DOC](http://985.nju.edu.cn/ewebeditor/UploadFile/201261413745534.doc)
+
 [附件2：学校中期报告表格（苏学科办〔2012〕2号）定稿.DOC](http://985.nju.edu.cn/ewebeditor/UploadFile/201261413755583.doc)

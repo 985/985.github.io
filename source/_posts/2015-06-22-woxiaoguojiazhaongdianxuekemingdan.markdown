@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我校国家重点学科名单"
-date: 2015-06-22 16:54:13 +0800
+date: 2007-11-28 16:54:13 +0800
 comments: true
 categories: 学科评估与建设
 ---

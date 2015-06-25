@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "江苏省优势学科二期遴选表格更新"
-date: 2015-06-21 15:41:42 +0800
+date: 2014-03-12 15:41:42 +0800
 comments: true
 categories: 新闻快讯 
 ---

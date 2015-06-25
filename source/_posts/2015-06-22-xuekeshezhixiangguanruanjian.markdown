@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "学科设置相关文件"
-date: 2015-06-22 14:58:08 +0800
+date: 2014-10-29 14:58:08 +0800
 comments: true
 categories: 学科评估与建设
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "江苏高校优势学科建设基本情况表"
-date: 2015-06-22 17:16:41 +0800
+date: 2012-11-06 17:16:41 +0800
 comments: true
 categories: 江苏省优势学科工程
 ---

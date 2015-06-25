@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "南京大学学科专业目录"
-date: 2015-06-22 15:04:01 +0800
+date: 2012-05-20 15:04:01 +0800
 comments: true
 categories: 学科评估与建设
 ---

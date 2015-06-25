@@ -6,4 +6,4 @@ comments: true
 categories: 新闻快讯
 ---
 
-[优势学科建设工程二期选项.zip]（http://985.nju.edu.cn/ewebeditor/UploadFile/20143793144511.zip）
+[优势学科建设工程二期选项.zip](http://985.nju.edu.cn/ewebeditor/UploadFile/20143793144511.zip)

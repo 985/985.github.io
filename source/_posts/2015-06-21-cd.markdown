@@ -1,7 +1,0 @@
----
-layout: post
-title: "cd .."
-date: 2015-06-21 20:43:56 +0800
-comments: true
-categories: 
----

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "中长期改革与发展规划编制工作时间安排"
-date: 2015-06-21 18:35:01 +0800
+date: 2009-04-17 18:35:01 +0800
 comments: true
 categories: 新闻快讯
 ---
@@ -36,5 +36,6 @@ categories: 新闻快讯
 联系人：刘志兰；电话: 83596239；E-mail: <lzlan@nju.edu.cn>
  
 南京大学重点项目建设办公室
+
 二○○九年四月十五日
 　

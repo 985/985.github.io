@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "关于转发教育部学位中心第三轮学科评估通知"
-date: 2015-06-22 15:08:53 +0800
+date: 2012-02-16 15:08:53 +0800
 comments: true
 categories: 学科评估与建设
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我校举行“985工程”规划教师座谈会"
-date: 2015-06-21 18:28:31 +0800
+date: 2010-09-11 18:28:31 +0800
 comments: true
 categories: 新闻快讯
 ---

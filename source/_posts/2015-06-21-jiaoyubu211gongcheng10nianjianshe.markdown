@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "教育部“211工程”十年建设及三期工程建设情况介绍"
-date: 2015-06-21 18:52:17 +0800
+date: 2008-03-26 18:52:17 +0800
 comments: true
 categories: 新闻快讯
 ---
