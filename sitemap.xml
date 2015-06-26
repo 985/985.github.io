@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://985.github.io/blog/renyuanbianzhi/</loc>
-    <lastmod>2015-06-22T19:55:00+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://985.github.io/blog/gongzuozhize/</loc>
-    <lastmod>2015-06-22T19:51:43+08:00</lastmod>
-  </url>
-  <url>
     <loc>http://985.github.io/blog/guanyufengfanfuzhurenyingongfumeiguodegongshi/</loc>
     <lastmod>2015-04-10T18:46:21+08:00</lastmod>
   </url>
@@ -301,6 +293,14 @@
     <lastmod>2007-03-11T14:10:49+08:00</lastmod>
   </url>
   <url>
+    <loc>http://985.github.io/blog/renyuanbianzhi/</loc>
+    <lastmod>2000-06-22T19:55:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://985.github.io/blog/gongzuozhize/</loc>
+    <lastmod>2000-06-22T19:51:43+08:00</lastmod>
+  </url>
+  <url>
     <loc>http://985.github.io/archives/</loc>
   </url>
   <url>
@@ -343,6 +343,9 @@
     <loc>http://985.github.io/posts/</loc>
   </url>
   <url>
+    <loc>http://985.github.io/blog/categories/ji-gou-she-zhi/</loc>
+  </url>
+  <url>
     <loc>http://985.github.io/blog/categories/211gong-cheng/</loc>
   </url>
   <url>
@@ -373,7 +376,25 @@
     <loc>http://985.github.io/blog/categories/gai-ge-yu-fa-zhan-gui-hua/</loc>
   </url>
   <url>
-    <loc>http://985.github.io/blog/categories/ji-gou-she-zhi/</loc>
+    <loc>http://985.github.io/posts/2/</loc>
+  </url>
+  <url>
+    <loc>http://985.github.io/posts/3/</loc>
+  </url>
+  <url>
+    <loc>http://985.github.io/posts/4/</loc>
+  </url>
+  <url>
+    <loc>http://985.github.io/posts/5/</loc>
+  </url>
+  <url>
+    <loc>http://985.github.io/posts/6/</loc>
+  </url>
+  <url>
+    <loc>http://985.github.io/posts/7/</loc>
+  </url>
+  <url>
+    <loc>http://985.github.io/posts/8/</loc>
   </url>
   <url>
     <loc>http://985.github.io/985/change.html</loc>
