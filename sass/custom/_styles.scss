@@ -21,7 +21,7 @@ body > nav {
   //background: url("/images/nav.jpg");
   //background: #dc0000;
   font-size: 12px;
-  color: #ff0000;
+  color: #eeeeee;
   margin-top: 180px;
   ul.main-navigation {
     padding-left: 20px;
@@ -32,9 +32,9 @@ body > nav {
     //display: none;
   }
   a {
-	color: #ff0000;
+	color: #eeeeee;
     &:hover {
-	//color: #ff0000;
+	//color: #ffffff;
       color: hsl(209.01, 86.94%, 52.04%);
       text-shadow:
         hsl(209.01, 86.94%, 42.04%) 0px 0px 5px,
@@ -45,15 +45,15 @@ body > nav {
 
     }
     &:visited {
-	color: #ff0000;
+	color: #eeeeee;
     }
     i {
-      color: hsl(209.01, 86.94%, 50.04%);
+      color: hsl(209.01, 86.94%, 100%);
       text-shadow:
-        hsl(209.01, 86.94%, 42.04%) 0px 0px 5px,
-        hsl(209.01, 86.94%, 42.04%) 0px 0px 7px,
-        hsl(209.01, 86.94%, 52.04%) 0px 0px 9px,
-        hsl(209.01, 86.94%, 52.04%) 0px 0px 11px,
+        hsl(209.01, 86.94%, 100%) 0px 0px 5px,
+        hsl(209.01, 86.94%, 100%) 0px 0px 7px,
+        hsl(209.01, 86.94%, 100%) 0px 0px 9px,
+        hsl(209.01, 86.94%, 100%) 0px 0px 11px,
         hsl(0, 0%, 0%) 0 0 2px;
     }
   }
