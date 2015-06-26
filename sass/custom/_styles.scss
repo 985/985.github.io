@@ -67,34 +67,3 @@ body {
   font-size: 1em;
  // @extend .serif;
 }
-
-body > header h1 {
-  font-size: 0.5em;
-  @extend .heading;
-  font-family: $header-title-font-family;
-  font-weight: normal;
-  line-height: 1.2em;
-  margin-bottom: 0.6667em;
-}
-body > header h2 {
-  font-family: $header-subtitle-font-family;
-}
-
-h1 {
-  font-size: 3.1em;
-  line-height: 1.2em;
-}
-
-body > div > div > div > article > div > article > h1 {
-	font-size: 0.5em;
-	@extend .heading;
-  font-family: $header-title-font-family;
-  font-weight: normal;
-  line-height: 1.2em;
-  margin-bottom: 0.6667em;
-}
-
-blog-archives h1 {
-	font-size: 0.5em
-}
-
