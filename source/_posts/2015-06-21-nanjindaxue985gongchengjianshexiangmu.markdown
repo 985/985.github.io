@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "南京大学“985工程”建设项目进行预验收工作"
-date: 2015-06-21 16:04:01 +0800
+date: 2013-07-11 16:04:01 +0800
 comments: true
 categories: 新闻快讯
 ---
