@@ -6,7 +6,7 @@ comments: true
 categories: 改革与发展规划
 ---
 
-[南京大学中长期改革与发展规划（2010-2020年）.doc](http://985.nju.edu.cn/ewebeditor/UploadFile/2014102795445857.doc)
+[南京大学中长期改革与发展规划（2010-2020年）.doc](../../downloads/2014102795445857.doc)
 
 
 

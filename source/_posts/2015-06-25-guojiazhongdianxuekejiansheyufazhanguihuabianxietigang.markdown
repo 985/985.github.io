@@ -6,4 +6,4 @@ comments: true
 categories: 文件下载
 ---
 
-[国家重点学科建设与发展规划(2007-2010)提纲.doc　](http://985.nju.edu.cn/ewebeditor/UploadFile/2007102533323280.doc)
+[国家重点学科建设与发展规划(2007-2010)提纲.doc　](../../downloads/2007102533323280.doc)

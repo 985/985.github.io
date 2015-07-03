@@ -55,7 +55,7 @@ categories: 新闻快讯
 
 各学科需要填写上报的材料可从学位中心网站下载<http://www.cdgdc.edu.cn/>。也可直接从下面下载：
 
-[下载材料.rar](http://985.nju.edu.cn/ewebeditor/UploadFile/200768142223102.rar)
+[下载材料.rar](../../downloads/200768142223102.rar)
 
 
  

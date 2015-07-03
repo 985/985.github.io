@@ -6,5 +6,5 @@ comments: true
 categories: 学科建设与评估
 ---
 
-[国家重点学科名单.xls　](http://985.nju.edu.cn/ewebeditor/UploadFile/200711268368294.xls)
+[国家重点学科名单.xls　](../../downloads/200711268368294.xls)
 

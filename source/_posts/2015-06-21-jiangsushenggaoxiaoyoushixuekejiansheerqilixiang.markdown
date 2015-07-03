@@ -6,4 +6,4 @@ comments: true
 categories: 新闻快讯
 ---
 
-[江苏优势学科任务.rar](http://985.nju.edu.cn/ewebeditor/UploadFile/201466102152831.rar)
+[江苏优势学科任务.rar](../../downloads/201466102152831.rar)

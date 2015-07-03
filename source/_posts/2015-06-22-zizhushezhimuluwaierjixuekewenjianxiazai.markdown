@@ -7,4 +7,4 @@ categories: 江苏省优势学科工程
 ---
 
 
-[附件5-自主设置目录外二级学科.rar　](http://985.nju.edu.cn/ewebeditor/UploadFile/201342119832676.rar)
+[附件5-自主设置目录外二级学科.rar　](../../downloads/201342119832676.rar)

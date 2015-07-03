@@ -7,9 +7,9 @@ categories: 学科评估与建设
 ---
 
 
-![](http://985.nju.edu.cn/ewebeditor/UploadFile/2007314161238700.jpg)
+![](../../downloads/2007314161238700.jpg)
 
-![](http://985.nju.edu.cn/ewebeditor/UploadFile/2007314161241294.jpg)
+![](../../downloads/2007314161241294.jpg)
 
-![](http://985.nju.edu.cn/ewebeditor/UploadFile/2007314161241264.jpg)
+![](../../downloads/2007314161241264.jpg)
 

@@ -6,4 +6,4 @@ comments: true
 categories: 江苏省优势学科工程
 ---
 
-[江苏省优势学科文件.zip](http://985.nju.edu.cn/ewebeditor/UploadFile/201342421318139.zip)
+[江苏省优势学科文件.zip](../../downloads/201342421318139.zip)

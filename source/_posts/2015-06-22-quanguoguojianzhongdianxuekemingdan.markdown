@@ -6,4 +6,4 @@ comments: true
 categories: 学科评估与建设
 ---
 
-[国家重点（培育）学科名单（2007年公布）.xls](http://985.nju.edu.cn/ewebeditor/UploadFile/2007112683839304.xls)
+[国家重点（培育）学科名单（2007年公布）.xls](../../downloads/2007112683839304.xls)

@@ -6,4 +6,4 @@ comments: true
 categories: 江苏省优势学科工程
 ---
 
-[填表说明.doc](http://985.nju.edu.cn/ewebeditor/UploadFile/201211120853196.doc)
+[填表说明.doc](../../downloads/201211120853196.doc)

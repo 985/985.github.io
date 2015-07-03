@@ -7,4 +7,4 @@ categories:  文件下载
 ---
 
 
-[985三期经费使用统计表、拨款单.xls　](http://985.nju.edu.cn/ewebeditor/UploadFile/2011530204331779.xls)
+[985三期经费使用统计表、拨款单.xls　](../../downloads/2011530204331779.xls)

@@ -9,5 +9,5 @@ categories: 江苏省优势学科工程
 
 省重点学科检查工作文件下载：
 
-[省重点学科检查文件.zip](http://985.nju.edu.cn/ewebeditor/UploadFile/20134304450288.zip)
+[省重点学科检查文件.zip](../../downloads/20134304450288.zip)
 

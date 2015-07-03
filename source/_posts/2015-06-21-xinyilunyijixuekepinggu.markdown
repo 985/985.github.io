@@ -8,10 +8,10 @@ categories: 新闻快讯
 
 填报材料补充说明：
 
-[填报材料补充说明.rar](http://985.nju.edu.cn/ewebeditor/UploadFile/201229171010194.rar)
+[填报材料补充说明.rar](../../downloads/201229171010194.rar)
 
 常见问题解答：
 
-[第三轮学科评估材料填报常见问题解答.doc](http://985.nju.edu.cn/ewebeditor/UploadFile/201229171042238.doc)
+[第三轮学科评估材料填报常见问题解答.doc](../../downloads/201229171042238.doc)
 
 

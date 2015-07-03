@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for ((i=0; i<$(ls ./_posts/ | wc -l); i++))
+{
+	filename=$(echo $(ls ./_posts) | cut -d " " -f $[$i+1])
+	sed -i "s/http:\/\/985\.nju\.edu\.cn\/ewebeditor\/UploadFile/\.\.\/\.\.\/downloads/g" ./files/$filename
+}i

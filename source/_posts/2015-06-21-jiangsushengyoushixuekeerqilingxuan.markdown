@@ -6,8 +6,8 @@ comments: true
 categories: 新闻快讯 
 ---
 
-[申请书(_附件4).doc](http://985.nju.edu.cn/ewebeditor/UploadFile/201431215044141.doc)
+[申请书(_附件4).doc](../../downloads/201431215044141.doc)
 
-[申请汇总表(附件6).doc](http://985.nju.edu.cn/ewebeditor/UploadFile/201431215057619.doc)
+[申请汇总表(附件6).doc](../../downloads/201431215057619.doc)
 
-[申报常见问题答复（一）.doc](http://985.nju.edu.cn/ewebeditor/UploadFile/201431215112443.doc)
+[申报常见问题答复（一）.doc](../../downloads/201431215112443.doc)

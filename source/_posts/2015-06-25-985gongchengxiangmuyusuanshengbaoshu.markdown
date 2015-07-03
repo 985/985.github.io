@@ -7,4 +7,4 @@ categories: 文件下载
 ---
 
 
-[项目申报书.doc　](http://985.nju.edu.cn/ewebeditor/UploadFile/20101025193916236.doc)
+[项目申报书.doc　](../../downloads/20101025193916236.doc)

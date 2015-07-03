@@ -6,4 +6,4 @@ comments: true
 categories: 江苏省优势学科工程
 ---
 
-[江苏高校优势学科建设相关文件.rar　](http://985.nju.edu.cn/ewebeditor/UploadFile/201242319258240.rar)
+[江苏高校优势学科建设相关文件.rar　](../../downloads/201242319258240.rar)

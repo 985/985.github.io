@@ -7,4 +7,4 @@ categories: 文件下载
 ---
 
 
-[（发改委项目）学科建设项目年度任务书.doc](http://985.nju.edu.cn/ewebeditor/UploadFile/2008122415243995.doc)
+[（发改委项目）学科建设项目年度任务书.doc](../../downloads/2008122415243995.doc)

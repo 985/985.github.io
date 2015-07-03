@@ -8,4 +8,4 @@ categories: 文件下载
 
 “211工程”三期学科建设项目年度计划书下载
 
-[学科建设项目年度任务书.doc](http://985.nju.edu.cn/ewebeditor/UploadFile/20081211105846924.doc)
+[学科建设项目年度任务书.doc](../../downloads/20081211105846924.doc)
