@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "南京大学学术委员会章程"
-date: 2015-07-07 09:57:58 +0800
+date: 2015-05-09 09:57:58 +0800
 comments: true
 categories: 规章制度
 ---
