@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[学科建设与评估 | ]]></title>
-  <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/categories/xue-ke-jian-she-yu-ping-gu/atom.xml" rel="self"/>
-  <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//"/>
-  <updated>2015-09-28T11:17:18+08:00</updated>
-  <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//</id>
+  <link href="http://985.nju.edu.cn/blog/categories/xue-ke-jian-she-yu-ping-gu/atom.xml" rel="self"/>
+  <link href="http://985.nju.edu.cn/"/>
+  <updated>2015-09-28T12:31:41+08:00</updated>
+  <id>http://985.nju.edu.cn/</id>
   <author>
     <name><![CDATA[monkey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[全国国家重点学科名单（2007年）]]></title>
-    <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/quanguoguojiazhongdianxuekemingsan/"/>
+    <link href="http://985.nju.edu.cn/blog/quanguoguojiazhongdianxuekemingsan/"/>
     <updated>2007-11-26T15:19:48+08:00</updated>
-    <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/quanguoguojiazhongdianxuekemingsan</id>
+    <id>http://985.nju.edu.cn/blog/quanguoguojiazhongdianxuekemingsan</id>
     <content type="html"><![CDATA[<p><a href="../../downloads/200711268368294.xls">国家重点学科名单.xls　</a></p>
 ]]></content>
   </entry>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[学科评估与建设 | ]]></title>
-  <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/categories/xue-ke-ping-gu-yu-jian-she/atom.xml" rel="self"/>
-  <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//"/>
-  <updated>2015-09-28T11:17:18+08:00</updated>
-  <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//</id>
+  <link href="http://985.nju.edu.cn/blog/categories/xue-ke-ping-gu-yu-jian-she/atom.xml" rel="self"/>
+  <link href="http://985.nju.edu.cn/"/>
+  <updated>2015-09-28T12:31:41+08:00</updated>
+  <id>http://985.nju.edu.cn/</id>
   <author>
     <name><![CDATA[monkey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[学科设置相关文件]]></title>
-    <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/xuekeshezhixiangguanruanjian/"/>
+    <link href="http://985.nju.edu.cn/blog/xuekeshezhixiangguanruanjian/"/>
     <updated>2014-10-29T14:58:08+08:00</updated>
-    <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/xuekeshezhixiangguanruanjian</id>
+    <id>http://985.nju.edu.cn/blog/xuekeshezhixiangguanruanjian</id>
     <content type="html"><![CDATA[<p>学科设置相关文件下载</p>
 
 <p><a href="../../downloads/20141029105512775.zip">有关学科设置文件.zip</a></p>
@@ -26,18 +26,18 @@
   
   <entry>
     <title type="html"><![CDATA[南京大学学科专业目录]]></title>
-    <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/nanjingdaxuexuekezhuanyemulu/"/>
+    <link href="http://985.nju.edu.cn/blog/nanjingdaxuexuekezhuanyemulu/"/>
     <updated>2012-05-20T15:04:01+08:00</updated>
-    <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/nanjingdaxuexuekezhuanyemulu</id>
+    <id>http://985.nju.edu.cn/blog/nanjingdaxuexuekezhuanyemulu</id>
     <content type="html"><![CDATA[<p><a href="../../downloads/2014521154624609.doc">专业目录按博硕士分类.doc</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[关于转发教育部学位中心第三轮学科评估通知]]></title>
-    <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/guanyuzhuanfajiaoyubuxueweizhongxindisanlunxuekepinggutongzhi/"/>
+    <link href="http://985.nju.edu.cn/blog/guanyuzhuanfajiaoyubuxueweizhongxindisanlunxuekepinggutongzhi/"/>
     <updated>2012-02-16T15:08:53+08:00</updated>
-    <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/guanyuzhuanfajiaoyubuxueweizhongxindisanlunxuekepinggutongzhi</id>
+    <id>http://985.nju.edu.cn/blog/guanyuzhuanfajiaoyubuxueweizhongxindisanlunxuekepinggutongzhi</id>
     <content type="html"><![CDATA[<p>关于转发教育部学位中心第三轮学科评估通知</p>
 
 <p>各有关学科：</p>
@@ -56,9 +56,9 @@
   
   <entry>
     <title type="html"><![CDATA[我校国家重点学科名单]]></title>
-    <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/woxiaoguojiazhaongdianxuekemingdan/"/>
+    <link href="http://985.nju.edu.cn/blog/woxiaoguojiazhaongdianxuekemingdan/"/>
     <updated>2007-11-28T16:54:13+08:00</updated>
-    <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/woxiaoguojiazhaongdianxuekemingdan</id>
+    <id>http://985.nju.edu.cn/blog/woxiaoguojiazhaongdianxuekemingdan</id>
     <content type="html"><![CDATA[<p>一级学科国家重点学科名单（8个）：</p>
 
 <p>中国语言文学、数学、物理学、化学、天文学、地质学、生物学、计算机科学与技术。</p>
@@ -71,9 +71,9 @@
   
   <entry>
     <title type="html"><![CDATA[我校国家重点（培育）学科点名单]]></title>
-    <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/woxiaoguojiazhongdianxuekedianmingdan/"/>
+    <link href="http://985.nju.edu.cn/blog/woxiaoguojiazhongdianxuekedianmingdan/"/>
     <updated>2007-11-28T15:12:49+08:00</updated>
-    <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/woxiaoguojiazhongdianxuekedianmingdan</id>
+    <id>http://985.nju.edu.cn/blog/woxiaoguojiazhongdianxuekedianmingdan</id>
     <content type="html"><![CDATA[<p>根据此次教育部重点学科评估的结果，我校有6个学科成为国家重点（培育）学科点，它们是：</p>
 
 <p>世界经济、中国近现代史、经济法学、大气物理学与大气环境、水文学与水资源、环境工程</p>
