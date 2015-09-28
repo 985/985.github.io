@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://985.github.io/sitemap.xml 
+Sitemap: http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//sitemap.xml 

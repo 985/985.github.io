@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[机构设置 | ]]></title>
-  <link href="http://985.github.io/blog/categories/ji-gou-she-zhi/atom.xml" rel="self"/>
-  <link href="http://985.github.io/"/>
-  <updated>2015-09-28T11:01:35+08:00</updated>
-  <id>http://985.github.io/</id>
+  <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/categories/ji-gou-she-zhi/atom.xml" rel="self"/>
+  <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//"/>
+  <updated>2015-09-28T11:17:18+08:00</updated>
+  <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//</id>
   <author>
     <name><![CDATA[monkey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[人员编制]]></title>
-    <link href="http://985.github.io/blog/renyuanbianzhi/"/>
+    <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/renyuanbianzhi/"/>
     <updated>2000-06-22T19:55:00+08:00</updated>
-    <id>http://985.github.io/blog/renyuanbianzhi</id>
+    <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/renyuanbianzhi</id>
     <content type="html"><![CDATA[<p>南京大学学科建设与发展规划办公室人员编制</p>
 
 <table>
@@ -76,9 +76,9 @@
   
   <entry>
     <title type="html"><![CDATA[工作职责]]></title>
-    <link href="http://985.github.io/blog/gongzuozhize/"/>
+    <link href="http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/gongzuozhize/"/>
     <updated>2000-06-22T19:51:43+08:00</updated>
-    <id>http://985.github.io/blog/gongzuozhize</id>
+    <id>http://985.nju.edu.cn/blog/categories/xin-wen-kuai-xun//blog/gongzuozhize</id>
     <content type="html"><![CDATA[<p>1、学校发展规划的论证、制定与调整。</p>
 
 <p>2、学校学科规划的论证、制定、实施与调整。</p>
